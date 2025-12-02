@@ -1,0 +1,6 @@
+#define PI 3.14
+#define AREA PI * r * r
+
+float r = 5;
+float area = AREA;
+// this is a comment
